@@ -6,9 +6,10 @@ Meu portifólio de projetos de Data Science
   <img src="banner.png" >
 </p>
 
-# Maíra Vieira
+# Carlos Melo
 <sub>Bachelor of biology, student of data science</sub>
-<p>With experiences in the biological field, today I study to enter the career of data science.<p>
+
+With experiences in the biological field, today I study to enter the career of data science.
 
 **Background in:** Python
 
@@ -17,6 +18,7 @@ Meu portifólio de projetos de Data Science
 * [Medium](https://medium.com/@mairavieiraal)
 
 
-** Projetos: **
+## Projetos:
 
----
+
+* **xxxxxxxxxxxxxxxxxxxxxxx:** https://bit.ly/2L2cMwy
