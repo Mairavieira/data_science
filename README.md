@@ -17,6 +17,6 @@ Meu portifólio de projetos de Data Science
 * [Medium](https://medium.com/@mairavieiraal)
 
 
-## Projetos:
+** Projetos: **
 
 ---
