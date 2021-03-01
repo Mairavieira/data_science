@@ -8,7 +8,7 @@ Meu portifólio de projetos de Data Science
 
 # Maíra Vieira
 <sub>Bachelor of biology, student of data science</sub>
-With experiences in the biological field, today I study to enter the career of data science.
+<p>With experiences in the biological field, today I study to enter the career of data science.<p>
 
 **Background in:** Python
 
